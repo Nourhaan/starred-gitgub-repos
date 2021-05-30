@@ -1,0 +1,11 @@
+nav{
+    height: 70px;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+nav h4{
+    color: white;
+    margin-left: 20px;
+}

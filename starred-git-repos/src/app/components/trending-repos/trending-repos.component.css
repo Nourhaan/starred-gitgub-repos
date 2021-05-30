@@ -1,0 +1,47 @@
+img{
+    width:300px;
+    height: 250px;
+}
+
+h1{
+    margin-top: 0;
+}
+
+p{
+    font-size: 25px;
+    font-family: monospace;
+}
+
+pagination-controls{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    font-size: 20px;
+
+}
+
+.res{
+    min-height:  73.6vh;
+    margin-top: 120px;
+}
+
+.container{
+    display: flex;
+    margin: 20px;
+}
+
+.info{
+    margin-left:70px;
+}
+
+.stars-span, .issues-span{
+    margin-right: 30px;
+    padding: 10px;
+    background-color: lightgrey;
+    font-size: 20px;
+}
+
+.duration-span{
+    font-size: 20px;
+    font-family: monospace;
+}
